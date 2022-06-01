@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,qBACE,4BAAA,CAAA,oBAAqB","file":"main.d7dafee5.chunk.css","sourcesContent":["// styles go here\ninput[type=\"checkbox\"] {\n  transform: scale(1.5);\n}\n"]}
